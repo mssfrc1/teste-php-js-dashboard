@@ -1,5 +1,7 @@
 # Desafio Técnico – Dashboard PHP + jQuery
 
+O projeto foi criado e hospedado localmente através do XAMPP, utilizando PHP 7.1.
+
 ## 1. Estrutura Comum (Cabeçalho, Menu, Rodapé)
 
 O projeto adota uma estrutura de componentes reutilizáveis para páginas que compartilham layout base. Os arquivos `cabecalho.php`, `menu.php` e `rodape.php` foram criados e estão localizados no diretório:
